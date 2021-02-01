@@ -22,7 +22,7 @@ while guesses_left > 0:
             
         elif guess == random_number:
             
-            print("You got it right!")
+            print("\nCongratulations!\nYou got it right!")
             break
         
         else:
